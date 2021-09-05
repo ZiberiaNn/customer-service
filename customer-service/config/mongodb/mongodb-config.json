@@ -1,0 +1,8 @@
+{
+    "mongodb": {
+      "server": "localhost:27017",
+      "database": "ingweb",
+      "user": null,
+      "password": null
+    }
+  }
